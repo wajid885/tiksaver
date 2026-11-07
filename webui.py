@@ -5,6 +5,8 @@ INDEX_HTML = r'''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="monetag" content="060ba521954b7239fb00aae37183e419">
+<script>(function(s){s.dataset.zone='12209058',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+<script>(function(s){s.dataset.zone='12209074',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>TikSaver — TikTok, Instagram & Facebook Video Downloader (No Watermark)</title>
 <meta name="description" content="TikSaver is a free video downloader. Paste a TikTok, Instagram or Facebook link and save the video in MP4 without watermark, or get the audio as MP3. No app install, no account needed.">
