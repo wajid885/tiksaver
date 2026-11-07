@@ -6,6 +6,14 @@ INDEX_HTML = r'''<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="monetag" content="060ba521954b7239fb00aae37183e419">
 <script>(function(s){s.dataset.zone='12209058',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z655LPZSQ4"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-Z655LPZSQ4');
+</script>
 <script>(function(s){s.dataset.zone='12209074',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>TikSaver — TikTok, Instagram & Facebook Video Downloader (No Watermark)</title>
