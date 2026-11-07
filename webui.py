@@ -4,6 +4,7 @@ INDEX_HTML = r'''<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="monetag" content="060ba521954b7239fb00aae37183e419">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>TikSaver — TikTok, Instagram & Facebook Video Downloader (No Watermark)</title>
 <meta name="description" content="TikSaver is a free video downloader. Paste a TikTok, Instagram or Facebook link and save the video in MP4 without watermark, or get the audio as MP3. No app install, no account needed.">
